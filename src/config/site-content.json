@@ -61,6 +61,13 @@
 			"value": "1780042048",
 			"label": "",
 			"order": 3
+		},
+		{
+			"id": "button-1765448689644",
+			"type": "xiaohongshu",
+			"value": "https://www.xiaohongshu.com/user/profile/5ce8b5940000000005025010",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
