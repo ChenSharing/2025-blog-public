@@ -54,6 +54,13 @@
 			"value": "itsuchen@163.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765442947869",
+			"type": "qq",
+			"value": "1780042048",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
