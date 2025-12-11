@@ -46,7 +46,7 @@
 			"type": "github",
 			"value": "https://github.com/ChenSharing",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
